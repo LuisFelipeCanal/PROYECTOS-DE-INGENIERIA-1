@@ -1,5 +1,9 @@
 # PROYECTOS-DE-INGENIERIA-1
-**GRUPO 4**
+## **GRUPO 4**
+
+![Screenshot]()
+
+Somos el grupo 4 ... 
 
 INTEGRANTES:
 
@@ -17,4 +21,4 @@ INTEGRANTES:
 
 -SARANSH PACSI
 
-¿Cuál es la problemática?
+## ¿Cuál es la problemática?
